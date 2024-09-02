@@ -1,3 +1,5 @@
+  ![Header](./github-header-image.png)
+  
 ## Olá, Sou a Kailane!
 - 👋 Hi, I’m @kailanetomaz
 - 👀 I’m interested in ...
